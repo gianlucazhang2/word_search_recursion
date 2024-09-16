@@ -1,0 +1,73 @@
+24 solution(s)
+Board: 
+  ao
+  tr
+Board: 
+  ar
+  to
+Board: 
+  at
+  or
+Board: 
+  at
+  ro
+Board: 
+  ao
+  rt
+Board: 
+  ar
+  ot
+Board: 
+  oa
+  rt
+Board: 
+  ra
+  ot
+Board: 
+  ta
+  or
+Board: 
+  ta
+  ro
+Board: 
+  oa
+  tr
+Board: 
+  ra
+  to
+Board: 
+  to
+  ar
+Board: 
+  tr
+  ao
+Board: 
+  or
+  at
+Board: 
+  ro
+  at
+Board: 
+  ot
+  ar
+Board: 
+  rt
+  ao
+Board: 
+  ot
+  ra
+Board: 
+  rt
+  oa
+Board: 
+  or
+  ta
+Board: 
+  ro
+  ta
+Board: 
+  to
+  ra
+Board: 
+  tr
+  oa
